@@ -1,4 +1,3 @@
-
 #include "conjugate_gradient.hpp"
 
 #include <cmath>
