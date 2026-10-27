@@ -23,5 +23,9 @@ CGResult conjugateGradient(
     Vector r(b.size());
     Vector p(b.size());
 
-    //compute r = b-A*X
+    //compute r = b-A*x
+
+    
+
+    return {x, {}, 0, false};
 };
